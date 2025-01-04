@@ -1,0 +1,28 @@
+# Windows ile ilgili geçici dosyalar
+*.tmp
+*.log
+Thumbs.db
+Desktop.ini
+
+# Visual Studio ile ilgili geçici dosyalar
+.vs/
+*.user
+*.suo
+
+# Derleme çıktıları
+bin/
+obj/
+*.dll
+*.exe
+
+# Git tarafından otomatik oluşturulan dosyalar
+.git/
+
+
+# Geçici dosyalar
+*.bak
+*.swp
+
+# IDE ve editor ayar dosyaları
+.idea/
+*.vscode/
